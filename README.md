@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Miguel
+
+## 🚀 About Me
+- 🎓 Computer Science student
+- 💻 Passionate about Web & Linux
+- 🌍 Based in Cameroon
+
+## 🛠️ Tech Stack
+- HTML / CSS / JavaScript
+- Python
+- Git & GitHub
+- Linux
+
+## 📂 Featured Projects
+- 🔹 Project 1 – Short description
+- 🔹 Project 2 – Short description
+
+## 📫 Contact
+- Email: yourmail@email.com
+
+
 <!--
 **Senpai7Adim/Senpai7Adim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
