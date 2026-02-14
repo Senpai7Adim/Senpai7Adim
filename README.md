@@ -14,11 +14,12 @@
 - Linux
 
 ## 📂 Featured Projects
-- 🔹 Project 1 – Short description
-- 🔹 Project 2 – Short description
+- 🔹 Project 1 – 3D WED site
+- 🔹 Project 2 – WhatsapBot
+- 🔹 Project 3 Gaming WED site
 
 ## 📫 Contact
-- Email: yourmail@email.com
+- Email: ifoumiguel@email.com
 
 
 <!--
