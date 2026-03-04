@@ -14,9 +14,9 @@
 - Linux
 
 ## 📂 Featured Projects
-- 🔹 Project 1 – 3D WED site
-- 🔹 Project 2 – WhatsapBot
-- 🔹 Project 3 Gaming WED site
+ 🔹 Project 1 – 3D WED site
+ 🔹 Project 2 – WhatsapBot
+ 🔹 Project 3 Gaming WED site
 
 ## 📫 Contact
 - Email: ifoumiguel@email.com
